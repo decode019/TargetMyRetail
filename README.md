@@ -44,4 +44,6 @@ Build an application that performs the following actions:
 
 ### Setup/Run Project
 
--   Clone/download this repository into your favorite folder --> open in favorite IDE that has Maven support --> clean & build --> run
+-   Clone/download this repository into your favorite folder
+-   Open in favorite IDE that has Maven support
+-   Clean & build then run
